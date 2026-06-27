@@ -1,5 +1,6 @@
 # astarC
 a* algorithm for C, made for raylib but works elsewhere too!
+inspired by geeksforgeeks article on a*, translated into c!
 
 
 how to use:
